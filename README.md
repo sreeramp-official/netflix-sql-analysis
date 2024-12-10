@@ -7,6 +7,9 @@ This project provides an in-depth analysis of the Netflix dataset, encompassing 
 The queries are designed to answer specific questions about the dataset, making the analysis insightful and actionable. This project can serve as a learning resource for SQL enthusiasts and a framework for analyzing similar datasets.
 
 
+## Dataset
+The dataset used in this project is publicly available on Kaggle. You can find it here: [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows/data).
+
 ## Dataset Information
 The analysis is based on a dataset containing the following columns:
 
